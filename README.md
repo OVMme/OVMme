@@ -48,9 +48,10 @@ A passionate developer who loves building tools, breaking limits, and learning s
 
 ## 📊 GitHub Stats
 
-![OVM's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OVMme&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-six-xi-98.vercel.app/api?username=OVMme&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OVMme&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-six-xi-98.vercel.app/api/top-langs/?username=OVMme&layout=compact&theme=tokyonight)
+
 
 
 ---
