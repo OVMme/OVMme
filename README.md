@@ -6,10 +6,10 @@ A passionate developer who loves building tools, breaking limits, and learning s
 
 ## 🧑‍💻 About Me
 
-- 🐲 Currently learning **Backend Development**  
-- 🛠️ Exploring **Cybersecurity**, **System Design**, and **DevOps**  
-- 🎯 **2025 Goal:** Build real projects & contribute to open-source  
-- ⚡ **Fun Fact:** I can spend hours debugging — and still love it  
+- 🐲 Currently learning **Backend Development**
+- 🛠️ Exploring **Cybersecurity**, **System Design**, and **DevOps**
+- 🎯 **2026 Goal:** Build real projects & contribute to open-source
+- ⚡ **Fun Fact:** I can spend hours debugging — and still love it
 
 ---
 
@@ -48,8 +48,15 @@ A passionate developer who loves building tools, breaking limits, and learning s
 
 ## 📊 GitHub Stats
 
-> (Optional — remove if you don’t want it)
+![OVM's GitHub stats](https://github-readme-stats.vercel.app/api?username=OVMme&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OVMme&layout=compact&theme=tokyonight)
 
-```md
-![OVM's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovm&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovm&layout=compact&theme=tokyonight)
+---
+
+### 🔗 Links
+
+[website]: https://google.com  
+[twitter]: https://twitter.com/  
+[youtube]: https://youtube.com/  
+[instagram]: https://instagram.com/  
+[linkedin]: https://linkedin.com/in/
